@@ -1,0 +1,15 @@
+﻿field,description
+coin_id,unique internal id
+denomination,"1c, 5c, 10c, 20c, 25c, 50c, $1, $2"
+year,year
+variety,variety/major attribution
+strike_type,"business, PL, SP, PR/PF"
+grading_service,"ICCS, PCGS, NGC, CCCS, ANACS, ICG"
+grade_numeric,1–70
+grade_label,"e.g. EF-40, AU-58, MS-64"
+designation,"Cameo, Heavy Cameo, Red, etc."
+obverse_path,licensed/local image path
+reverse_path,licensed/local image path
+source_url,provenance
+license_permission,license/permission note
+cert_number,when legally/publicly usable
